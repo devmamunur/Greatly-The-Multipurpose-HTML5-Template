@@ -1,0 +1,188 @@
+/* 
+Template Name: Greatly - The Multipurpose HTML5 Template
+Author: envatoprime
+Author Email: envatoprime@gmail.com
+Version: 1.00
+*/
+
+
+
+
+.section-heading span
+{
+  color: #013990;
+}
+.reflection-text div i {
+  color: #013990;
+}
+.reflection-text div .one
+{
+  background: #013990;
+}
+.reflection-text div .two {
+  background: #013990;
+}
+.mybtn {
+  background-color: #013990;
+}
+nav.navbar-fixed .main-logo span {
+  color: #013990;
+}
+nav.navbar-fixed ul li a::before {
+  background: #013990;
+}
+
+nav.navbar-fixed .navbar-nav li a:hover {
+  color: #013990;
+}
+
+nav.navbar-fixed .navbar-nav li a:hover {
+  color: #013990;
+}
+nav.navbar-fixed .navbar-nav li a.active {
+  color: #013990;
+}
+.video-play-button:before {
+  background: #013990;
+}
+.video-play-button:after {
+  background: #013990;
+}
+.video-play-button:hover:after {
+  background-color: #013990;
+}
+.video-overlay-close:hover {
+  color: #013990;
+}
+.about-info h5 span,
+.about_history h5 span {
+    color: #013990;
+}
+.feature-box:after {
+  border-right: 3px solid #013990;
+  border-bottom: 3px solid #013990;
+}
+.feature-box:before {
+  border-top: 3px solid #013990;
+  border-left: 3px solid #013990;
+}
+.feature-icon i {
+  color: #013990;
+}
+
+.protfolio-filter li {
+  border: 2px solid #013990;
+}
+.protfolio-filter li:hover {
+  background: #013990;
+}
+
+.protfolio-filter li.active {
+  background: #013990;
+}
+
+.portfolio-category a:hover {
+  color: #013990;
+}
+.progress .progress-bar {
+  background-color: #013990;
+}
+#testimonial .test-content .works {
+  background: #013990;
+}
+
+#team .team_slider_item_info ul li a i:hover {
+  color: #013990;
+}
+
+.blogs .blog-box .blog-details h3 a:hover {
+  color: #013990;
+}
+.blogs .blog-box .blog-details .meta li a:hover {
+  color: #013990;
+}
+.all_blogs.blogs .blog-box:hover .blog-images .box {
+  background: #013990;
+}
+.blog-details .btn:hover {
+  color: #013990;
+}
+.blog-details .btn:hover i {
+  color: #013990;
+}
+.consultation-form .img-box {
+  background: #013990;
+
+}
+.contact-address {
+  background: #013990;
+}
+#copyright a:hover {
+  color: #013990;
+}
+.back-top-btn {
+  background: #013990;
+}
+.slick-next:before
+{
+    color: #013990;
+border: 0px solid #013990;
+}
+.slick-prev:before
+{
+    color: #013990;
+    border: 0px solid #013990;
+}
+
+#loader-wrapper .loader-section {
+  background: #013990;
+}
+
+#slider1 .silder .owl-nav div:hover,
+#slider1 .portfolio-slide .owl-nav div:hover,
+#slider1 .related-port .owl-nav div:hover {
+    background-color: #013990;
+}
+#slider1 .silder .owl-nav div,
+#slider1 .portfolio-slide .owl-nav div {
+    border: 2px solid #013990;
+}
+
+.slick-prev:hover::before, .slick-prev:focus::before, .slick-next:hover::before, .slick-next:focus::before {
+  color: #013990;
+
+}
+.protfolio-filter li {
+  border: 2px solid #013990!important;
+
+}
+.protfolio-filter li,
+#testimonial .slick-arrow i
+{
+  color: #013990;
+}
+.item-thumbnail::before {
+  background:  rgb(1, 57, 144, 0.8);
+}
+#testimonial .slick-arrow {
+  border: 2px solid #013990;;
+}
+#testimonial .slick-arrow:hover {
+  background: #013990;
+}
+#team .team_slider_item:hover .t-box {
+  background:  rgb(1, 57, 144, 0.9);
+}
+
+nav.navbar-fixed .nav-link::before {
+  background: #013990;
+}
+
+@media (max-width: 991px){
+  nav ul li .nav-link.active {
+    color: #013990!important;
+}
+  nav.navbar-fixed ul li .nav-link.active {
+    color: #013990!important;
+}
+}
