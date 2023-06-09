@@ -22,7 +22,7 @@ HTML, CSS, SCSS, jQuery, Bootstrap
 
 ## Author
 
-Greatly is passionately crafted by [Mamunur Rashid](https://mamunverse.com/), a visionary in creating extraordinary digital experiences.
+[Mamunur Rashid](https://mamunverse.com/).
 
 ## License
 
